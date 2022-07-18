@@ -1,0 +1,25 @@
+{
+    "name": "django-tex-syntax-highlighting",
+    "displayName": "Django-Tex Syntax Highlighting",
+    "description": "Syntax Highlighting in Django-Tex Templates",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "django-tex",
+            "aliases": ["Django LaTex", "django-tex"],
+            "extensions": [".tex"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "django-tex",
+            "scopeName": "text.tex.django",
+            "path": "./syntaxes/django-tex.tmLanguage.json"
+        }]
+    }
+}
