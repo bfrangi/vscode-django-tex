@@ -2,6 +2,17 @@
 
 The **Django-Tex Syntax Highlighting** extension (`vscode-django-tex`) is a simple *VSCode* extension for syntax highlighting in [`django-tex`](https://github.com/weinbusch/django-tex) (`.tex`) templates. The extension is based on another extension called [Django](https://github.com/vscode-django/vscode-django), which does the same for `.txt` and `.html` templates, so credits to [@batisteo](https://github.com/batisteo) for that.
 
+-------------------------------------------------------------------
+
+## Installation 
+
+You can install this extension directly from the Extension Marketplace in VSCode. You can also launch *VS Code Quick Open* (`Ctrl+P`), paste the following command, and press enter:
+
+```
+ext install bfrangi.vscode-django-tex
+```
+
+-------------------------------------------------------------------
 
 ## Features
 
@@ -118,38 +129,32 @@ The **Django-Tex Syntax Highlighting** extension (`vscode-django-tex`) is a simp
 
     </details>
 
-
-<!-- ## Requirements
-
-If you have any requirements or dependencies, add a section describing those and how to install and configure them. -->
-
-<!-- ## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something -->
-
-<!-- ## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension. -->
+-------------------------------------------------------------------
 
 ## Release Notes
 
-### Unreleased
+### [Unreleased]
+- No planned changes
+
+### [0.0.1] - 2022-07-18
 
 #### Added
 - Initial working version of the extension by [@bfrangi](https://github.com/bfrangi/).
 
------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------
 
-<!-- ### For more information
+## More
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/) -->
+* View the extension in the **Visual Studio Marketplace** using [this](https://marketplace.visualstudio.com/items?itemName=bfrangi.vscode-django-tex#review-details) link.
+
+
+-------------------------------------------------------------------
 
 **Enjoy!**
+
+
+
+[Unreleased]: https://github.com/bfrangi/vscode-django-tex/compare/v0.0.1...HEAD
+<!-- [0.0.2]: https://github.com/bfrangi/vscode-django-tex/compare/v0.0.1...v0.0.2 -->
+[0.0.1]: https://github.com/bfrangi/vscode-django-tex/releases/tag/v0.0.1
+

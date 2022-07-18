@@ -3,9 +3,10 @@
 All notable changes to the `vscode-django-tex` extension will be documented in this file. The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-<!-- ## [Unreleased] -->
-## Unreleased
+## [Unreleased]
+- No planned changes
 
+## [0.0.1] - 2022-07-18
 ### Added
 - Initial commit with a basic working version of the extension by [@bfrangi](https://github.com/bfrangi/).
 - This `CHANGELOG.md` file to keep track of the changes and new features of this extension.
@@ -15,22 +16,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed -->
 
-<!-- ## [1.0.0] - 2017-06-20
-### Added
-### Changed
-### Removed
 
-[Unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.3.0...v1.0.0
-[0.3.0]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.2.0...v0.3.0
-[0.2.0]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.1.0...v0.2.0
-[0.1.0]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.8...v0.1.0
-[0.0.8]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.7...v0.0.8
-[0.0.7]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.6...v0.0.7
-[0.0.6]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.5...v0.0.6
-[0.0.5]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.4...v0.0.5
-[0.0.4]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.3...v0.0.4
-[0.0.3]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.2...v0.0.3
-[0.0.2]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.1...v0.0.2
-[0.0.1]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/v0.0.1 -->
 
+[Unreleased]: https://github.com/bfrangi/vscode-django-tex/compare/v0.0.1...HEAD
+<!-- [0.0.2]: https://github.com/bfrangi/vscode-django-tex/compare/v0.0.1...v0.0.2 -->
+[0.0.1]: https://github.com/bfrangi/vscode-django-tex/releases/tag/v0.0.1 
