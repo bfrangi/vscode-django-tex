@@ -7,7 +7,9 @@ The **Django-Tex Syntax Highlighting** extension (`vscode-django-tex`) is a simp
 
 * Syntax Highlighting in [`django-tex`](https://github.com/weinbusch/django-tex) (`.tex`) templates:
 
-    ![Example](media/example-template.gif)
+    <p align="center">
+    <img src="https://github.com/bfrangi/vscode-django-tex/raw/main/media/example-template.gif" />
+    </p>
 
     <details>
     <summary>
@@ -110,7 +112,9 @@ The **Django-Tex Syntax Highlighting** extension (`vscode-django-tex`) is a simp
 
     This would produce:
 
-    ![Example PDF](media/example-pdf.png)
+    <p align="center">
+    <img src="https://github.com/bfrangi/vscode-django-tex/raw/main/media/example-pdf.png" />
+    </p>
 
     </details>
 

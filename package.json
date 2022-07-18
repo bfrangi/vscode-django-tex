@@ -3,6 +3,17 @@
     "displayName": "Django-Tex Syntax Highlighting",
     "description": "Syntax Highlighting in Django-Tex Templates",
     "version": "0.0.1",
+
+    "publisher": "bfrangi",
+    "license": "MIT",
+    "icon": "media/logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bfrangi/vscode-django-tex"
+    },
+    "bugs": {
+        "url": "https://github.com/bfrangi/vscode-django-tex/issues"
+    },
     "engines": {
         "vscode": "^1.69.0"
     },
