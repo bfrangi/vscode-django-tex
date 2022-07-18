@@ -1,5 +1,5 @@
 {
-    "name": "django-tex-syntax-highlighting",
+    "name": "vscode-django-tex",
     "displayName": "Django-Tex Syntax Highlighting",
     "description": "Syntax Highlighting in Django-Tex Templates",
     "version": "0.0.1",
