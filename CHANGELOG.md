@@ -5,7 +5,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 - No planned changes
+  
+## [1.0.0] - 2022-10-25
 
+### Added
+- Automatic detection of `django-tex` template files inside the `templates` folder of django projects.
 ## [0.0.1] - 2022-07-18
 ### Added
 - Initial commit with a basic working version of the extension by [@bfrangi](https://github.com/bfrangi/).
@@ -18,6 +22,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 
-[Unreleased]: https://github.com/bfrangi/vscode-django-tex/compare/v0.0.1...HEAD
-<!-- [0.0.2]: https://github.com/bfrangi/vscode-django-tex/compare/v0.0.1...v0.0.2 -->
+[Unreleased]: https://github.com/bfrangi/vscode-django-tex/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/bfrangi/vscode-django-tex/compare/v0.0.1...v1.0.0
 [0.0.1]: https://github.com/bfrangi/vscode-django-tex/releases/tag/v0.0.1 

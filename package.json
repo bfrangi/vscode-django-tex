@@ -2,7 +2,7 @@
     "name": "vscode-django-tex",
     "displayName": "Django-Tex Syntax Highlighting",
     "description": "Syntax Highlighting in Django-Tex Templates",
-    "version": "0.0.1",
+    "version": "1.0.0",
 
     "publisher": "bfrangi",
     "license": "MIT",
@@ -14,6 +14,13 @@
     "bugs": {
         "url": "https://github.com/bfrangi/vscode-django-tex/issues"
     },
+    "keywords": [
+		"python",
+		"django",
+		"web",
+        "latex"
+	],
+	"homepage": "https://github.com/bfrangi/vscode-django-tex",
     "engines": {
         "vscode": "^1.69.0"
     },
@@ -25,7 +32,10 @@
             "id": "django-tex",
             "aliases": ["Django LaTex", "django-tex"],
             "extensions": [".tex"],
-            "configuration": "./language-configuration.json"
+            "configuration": "./language-configuration.json",
+            "filenamePatterns": [
+                "**/templates/**/*.tex"
+            ]
         }],
         "grammars": [{
             "language": "django-tex",
