@@ -1,5 +1,9 @@
 # Django-Tex Syntax Highlighting Extension
 
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/bfrangi.vscode-django-tex.svg)](https://marketplace.visualstudio.com/items?itemName=bfrangi.vscode-django-tex)
+[![Version](https://vsmarketplacebadge.apphb.com/version-short/bfrangi.vscode-django-tex.svg)](https://marketplace.visualstudio.com/items?itemName=bfrangi.vscode-django-tex)
+[![Open VSX](https://img.shields.io/badge/Open%20VSX-vscode--django--tex-purple)](https://open-vsx.org/extension/bfrangi/vscode-django-tex)
+
 The **Django-Tex Syntax Highlighting** extension (`vscode-django-tex`) is a simple *VSCode* extension for syntax highlighting in [`django-tex`](https://github.com/weinbusch/django-tex) (`.tex`) templates. The extension is based on another extension called [Django](https://github.com/vscode-django/vscode-django), which does the same for `.txt` and `.html` templates, so credits to [@batisteo](https://github.com/batisteo) for that.
 
 -------------------------------------------------------------------
