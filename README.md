@@ -1,8 +1,18 @@
 # Django-Tex Syntax Highlighting Extension
 
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/bfrangi.vscode-django-tex.svg)](https://marketplace.visualstudio.com/items?itemName=bfrangi.vscode-django-tex)
-[![Version](https://vsmarketplacebadge.apphb.com/version-short/bfrangi.vscode-django-tex.svg)](https://marketplace.visualstudio.com/items?itemName=bfrangi.vscode-django-tex)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/bfrangi.vscode-django-tex?color=green&include_prereleases&label=Version)](https://marketplace.visualstudio.com/items?itemName=bfrangi.vscode-django-tex)
 [![Open VSX](https://img.shields.io/badge/Open%20VSX-vscode--django--tex-purple)](https://open-vsx.org/extension/bfrangi/vscode-django-tex)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/bfrangi/vscode-django-tex?color=purple&label=Downloads)](https://open-vsx.org/extension/bfrangi/vscode-django-tex)
+[![VS Marketplace](https://img.shields.io/badge/Visual%20Studio%20Marketplace-vscode--django--tex-lightgray)](https://marketplace.visualstudio.com/items?itemName=bfrangi.vscode-django-tex)
+[![VS Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/bfrangi.vscode-django-tex?color=lightgray&label=Downloads)](https://marketplace.visualstudio.com/items?itemName=bfrangi.vscode-django-tex)
+[![GitHub](https://img.shields.io/badge/GitHub-vscode--django--tex-blue)](https://github.com/bfrangi/vscode-django-tex)
+[![GitHub Downloads](https://img.shields.io/github/downloads/bfrangi/vscode-django-tex/total?color=blue&label=Downloads)](https://github.com/bfrangi/vscode-django-tex)
+
+
+
+
+
+
 
 The **Django-Tex Syntax Highlighting** extension (`vscode-django-tex`) is a simple *VSCode* extension for syntax highlighting in [`django-tex`](https://github.com/weinbusch/django-tex) (`.tex`) templates. The extension is based on another extension called [Django](https://github.com/vscode-django/vscode-django), which does the same for `.txt` and `.html` templates, so credits to [@batisteo](https://github.com/batisteo) for that.
 
