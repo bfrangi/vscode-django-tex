@@ -147,28 +147,17 @@ ext install bfrangi.vscode-django-tex
 
 ## Release Notes
 
-### [Unreleased]
-- No planned changes
-
-### [0.0.1] - 2022-07-18
-
-#### Added
-- Initial working version of the extension by [@bfrangi](https://github.com/bfrangi/).
+Visit the `CHANGELOG.md` [here](https://github.com/bfrangi/vscode-django-tex/blob/main/CHANGELOG.md).
 
 -------------------------------------------------------------------
 
 ## More
 
-* View the extension in the **Visual Studio Marketplace** using [this](https://marketplace.visualstudio.com/items?itemName=bfrangi.vscode-django-tex#review-details) link.
-
+* View on the **Visual Studio Marketplace** [here](https://marketplace.visualstudio.com/items?itemName=bfrangi.vscode-django-tex).
+* View on **Open VSX** [here](https://open-vsx.org/extension/bfrangi/vscode-django-tex).
+* View on **GitHub** [here](https://github.com/bfrangi/vscode-django-tex).
 
 -------------------------------------------------------------------
 
 **Enjoy!**
-
-
-
-[Unreleased]: https://github.com/bfrangi/vscode-django-tex/compare/v0.0.1...HEAD
-<!-- [0.0.2]: https://github.com/bfrangi/vscode-django-tex/compare/v0.0.1...v0.0.2 -->
-[0.0.1]: https://github.com/bfrangi/vscode-django-tex/releases/tag/v0.0.1
 
